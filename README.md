@@ -4,7 +4,6 @@
 - 🌱 Atualmente estou aprendendo técnicas avançadas de análise de dados com Python e estatística, aperfeiçoando técnicas de visualização de dados com PBI
 - e consultas avançadas em SQL
 - 💞️Estou buscando colaborar em projetos que usem dados para auxiliar na tomdada de decisão para melhor estratégia, baseada em dados
-- e estou procurando mentores experientes que me ajudem a aprimorar minhas habilidades práticas
 - ⚡Um fato interessante sobre mim é que sou muito apaixonada pelos meus Pets, tenho dois cachorros e dois gatos e eles são meu amores 
 
 <!---
